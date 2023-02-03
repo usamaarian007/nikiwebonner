@@ -21,11 +21,11 @@ const Hero = () => {
         {/* first col */}
         <div className="flex flex-col  items-center">
 
-          <div className="flex justify-center  mt-4 mb-4" >
+          <div className="flex justify-center  mt-4 mb-0" >
 
             <img src="icon2.png" alt="" className="md:h-44 md:w-96  sm:h-20 sm:max-w-14" />
           </div>
-          <div className="pb-16 px-6 mt-5" data-aos="fade-down">
+          <div className="pb-16 px-6 md: mt-5" data-aos="fade-down">
 
             <h2 className=" text-red-800" >{hero.title} </h2>
             <p className=" mt-4 text-red-800">School of Driving Underneath</p>

@@ -43,7 +43,7 @@ export const content = {
       icon: TbSmartHome,
     },
     {
-      link: "#skills",
+      link: "#about",
       icon: BiUser,
     },
     {

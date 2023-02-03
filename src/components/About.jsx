@@ -3,7 +3,7 @@ import { content } from "../Content";
 const About = () => {
   const { services } = content;
   return (
-    <section id="services">
+    <section id="about">
       <div className="md:container px-5 py-14">
         <h2 className="title" data-aos="fade-down">
         About Me
