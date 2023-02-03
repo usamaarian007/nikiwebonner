@@ -31,7 +31,7 @@ const Hero = () => {
             <p className=" mt-4 text-red-800">School of Driving Underneath</p>
             <br />
             <div className="flex justify-center">
-              <button className="btn">{hero.btnText}</button> 
+              {/* <button className="btn">{hero.btnText}</button>  */}
             </div>
             {/* <div className="flex flex-col gap-10 mt-10">
             {hero.hero_content.map((content, i) => (
